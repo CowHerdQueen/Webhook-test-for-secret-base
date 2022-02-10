@@ -1,0 +1,12 @@
+E:\Rust_Programming\projects\guessing_game\target\debug\deps\rand_core-10515947928feab2.rmeta: C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\lib.rs C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\block.rs C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\error.rs C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\impls.rs C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\le.rs C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\os.rs
+
+E:\Rust_Programming\projects\guessing_game\target\debug\deps\librand_core-10515947928feab2.rlib: C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\lib.rs C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\block.rs C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\error.rs C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\impls.rs C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\le.rs C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\os.rs
+
+E:\Rust_Programming\projects\guessing_game\target\debug\deps\rand_core-10515947928feab2.d: C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\lib.rs C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\block.rs C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\error.rs C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\impls.rs C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\le.rs C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\os.rs
+
+C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\lib.rs:
+C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\block.rs:
+C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\error.rs:
+C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\impls.rs:
+C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\le.rs:
+C:\Users\finmb\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\os.rs:
